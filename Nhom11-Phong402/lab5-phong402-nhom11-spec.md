@@ -1,13 +1,16 @@
 # SPEC — AI Product Hackathon
 
 **Nhóm:** Phòng 402 - Nhóm 11
-   2A202600369-Hồ Thị Tố Nhi
-   2A202600107- Lê Thị Phương
-   2A202600077-Hoàng Văn Kiên
-   2A202600042-Đỗ Văn Quyết
-   2A202600368- Hà Hữu An
-   2A202600095- Lê Hoàng Long
+
+  - 2A202600369-Hồ Thị Tố Nhi
+  - 2A202600107- Lê Thị Phương
+  - 2A202600077-Hoàng Văn Kiên
+  - 2A202600042-Đỗ Văn Quyết
+  - 2A202600368- Hà Hữu An
+  - 2A202600095- Lê Hoàng Long
+    
 **Track:** ☑ VinFast
+
 **Problem statement:** Khách hàng cá nhân và nhân viên sales mất 15–20 phút tư vấn xe VinFast phù hợp vì phải xem nhiều trang và so sánh thủ công — AI hỏi 3–4 câu và gợi ý ngay 2–3 dòng xe phù hợp nhất, giảm thời gian xuống ~3 phút.
 
 ---
